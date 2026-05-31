@@ -5,6 +5,8 @@ class abc {
    int a = 10;
 
    Boolean status is true
+   
+   double price = 10.4;
 
 }
 
